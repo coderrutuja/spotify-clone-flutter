@@ -1,1 +1,1 @@
-# spotify-clone-mern
+# spotify-clone-flutter
